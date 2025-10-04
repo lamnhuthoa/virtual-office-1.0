@@ -1,0 +1,604 @@
+fileFormatVersion: 2
+guid: 44c43f13f5fe9456099c6f6b25e54e45
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Box002Mat
+    second: {fileID: 2100000, guid: c1f92c178c5134260aabe6b27a7371cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Box003Mat
+    second: {fileID: 2100000, guid: b04ad46983d9243a0802020cd99022ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Box007Mat
+    second: {fileID: 2100000, guid: f69683f8a656d4fdaa2e8ab16432de98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Box008Mat
+    second: {fileID: 2100000, guid: 14a157affae6149869226e5fafd42f1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Box016Mat
+    second: {fileID: 2100000, guid: 03cd81b472fbb458f89aa12517137f34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Box017Mat
+    second: {fileID: 2100000, guid: 6945ce364f00c45dcae42cb62c395444, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Box018Mat
+    second: {fileID: 2100000, guid: 2f50f1bb098a04d90a5b9a6ae10a8f42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Box021Mat
+    second: {fileID: 2100000, guid: d72ee3599a7cc43acb420d8b7159fb29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Box022Mat
+    second: {fileID: 2100000, guid: de188274c184749eaafe9401e5a506d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Cylinder031Mat
+    second: {fileID: 2100000, guid: 2c84ec9b3816a40a9a2f7a2ce99b5b85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line042Mat
+    second: {fileID: 2100000, guid: be9294cb8f5de4eb48f52785d9491ec6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line044Mat
+    second: {fileID: 2100000, guid: 32989510fbfd740f3bfce9f8e3667379, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line045Mat
+    second: {fileID: 2100000, guid: 76942bfadce624cd19be193ac1a4883e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line046Mat
+    second: {fileID: 2100000, guid: afe0df7c9bb0e4936b012eb87d52442e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line047Mat
+    second: {fileID: 2100000, guid: 22bdeb512aea543fb86af9b04900cbc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line048Mat
+    second: {fileID: 2100000, guid: 8715222b8e2254ebfb74253877b1db86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line049Mat
+    second: {fileID: 2100000, guid: fa767f8ff43b741018d110da02a7508f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line050Mat
+    second: {fileID: 2100000, guid: 06fc52cff18944792922764094fde081, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line051Mat
+    second: {fileID: 2100000, guid: eeeed95438741443f8edc953dee32f93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line052Mat
+    second: {fileID: 2100000, guid: daefa0f0eb2c040468478ffb075879cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line053Mat
+    second: {fileID: 2100000, guid: 9e41abd1dc53c4ce1b433a112a4337b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line054Mat
+    second: {fileID: 2100000, guid: c69465d7c1ee246d6a6d75859a75d9b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line055Mat
+    second: {fileID: 2100000, guid: 2c0a22b0b18134967b527c7705b9c49a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line056Mat
+    second: {fileID: 2100000, guid: 5540750ba50274d6685e48a61df4a9ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line057Mat
+    second: {fileID: 2100000, guid: db86fbd8521534f6e852e481a9fcf115, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line058Mat
+    second: {fileID: 2100000, guid: 0089c827508ea45dbb5ef426ba8d0b17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line059Mat
+    second: {fileID: 2100000, guid: cb2f9d1b58a3d4f42810f04bff3a4437, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line060Mat
+    second: {fileID: 2100000, guid: 6795f7506d2ee41808ce3ef56659204b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line061Mat
+    second: {fileID: 2100000, guid: 55c219d73b03c40b2b256e0ef940c0fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line062Mat
+    second: {fileID: 2100000, guid: 4dc8168ea490f48438b57e55f69f8b22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line063Mat
+    second: {fileID: 2100000, guid: b6937fb533f7d46f994d3bef24ef976c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line064Mat
+    second: {fileID: 2100000, guid: 0923da53614b549e9a4964f42b0062c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line065Mat
+    second: {fileID: 2100000, guid: 5eefa883f5b1d4e048687d2c358db74c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line066Mat
+    second: {fileID: 2100000, guid: 16fe3cfd394744e2fb1e8154bb32b48a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line067Mat
+    second: {fileID: 2100000, guid: d8bc1374109d14cc087017bbc0b9a911, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line068Mat
+    second: {fileID: 2100000, guid: 708998afa26a04cf0a940d56602f9b9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line069Mat
+    second: {fileID: 2100000, guid: e5f64fc49e79940dea10ec02c23e489b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line070Mat
+    second: {fileID: 2100000, guid: 7a68efb5e265c45eb974c18db54d4192, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Line071Mat
+    second: {fileID: 2100000, guid: 77847d05ad58543c89c4304e70afb48d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Object001Mat
+    second: {fileID: 2100000, guid: e4708b906045048699933b0b060da6a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Object481Mat
+    second: {fileID: 2100000, guid: 34260428bf50e468aa2eecd17c530137, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Object497_doorMat
+    second: {fileID: 2100000, guid: b37e701c767af4222bbcc5e3f6b85828, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Object520Mat
+    second: {fileID: 2100000, guid: 84dc2878db27c47498c2f70cb212e6da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Object521Mat
+    second: {fileID: 2100000, guid: 1bd47dfbea39f49698d65488b3d815de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Shape021Mat
+    second: {fileID: 2100000, guid: 26e92b7cf16bd41c1a17869a7636a2ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Shape022Mat
+    second: {fileID: 2100000, guid: 301045d7f574e48bea7ac8f59054cac9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Shape023Mat
+    second: {fileID: 2100000, guid: ea8957567a8244793ae690a1a9749742, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Shape033Mat
+    second: {fileID: 2100000, guid: 02014b6d2f80a44efacef382797d046e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Shape035Mat
+    second: {fileID: 2100000, guid: c704fb58486094bec8a3c77d514b20a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Shape036Mat
+    second: {fileID: 2100000, guid: 8ab2d69f079f8465387ac008250eaa7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Shape037Mat
+    second: {fileID: 2100000, guid: d8b219969c47347aaaab7c22391260bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Sphere001Mat
+    second: {fileID: 2100000, guid: 81894cb1973a0419193a8656d7465770, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Sphere002Mat
+    second: {fileID: 2100000, guid: 6ba1cd8178c7141ba87a3681c0180a50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Sphere003Mat
+    second: {fileID: 2100000, guid: 4a4fe429cc6e648a5a8889e9fb997aeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_Sphere004Mat
+    second: {fileID: 2100000, guid: 0eac1c7e8288345d895c4c18265d4428, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Box011Mat
+    second: {fileID: 2100000, guid: 16b80f567f8f14ac5ad79bce0ba2aefd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Box012Mat
+    second: {fileID: 2100000, guid: 664360ac7bfcc42bbbe35db53ecedd74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Box013Mat
+    second: {fileID: 2100000, guid: ca1c3fa4392264014a97f67d64f38318, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Box014Mat
+    second: {fileID: 2100000, guid: 83a4ede88e98d47e78eb946543581e05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Box015Mat
+    second: {fileID: 2100000, guid: e23c2bfe025d64e1f8f68c122c70587a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Cylinder028Mat
+    second: {fileID: 2100000, guid: 9c3acb9c7fdb54f3a8a7d41ce248e260, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Cylinder029Mat
+    second: {fileID: 2100000, guid: 2762295c4131846379fcc5bd0a77cbbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Object484Mat
+    second: {fileID: 2100000, guid: 5930cef6812724f12860fde35cb8264d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Object485Mat
+    second: {fileID: 2100000, guid: 628a9b7197e5641e8ab0e3a61a82f787, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Object486Mat
+    second: {fileID: 2100000, guid: f678379989e094fa79254b5e03ad3846, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Object487Mat
+    second: {fileID: 2100000, guid: 124e501ed6979487e8f9ecc9d17807f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Object496Mat
+    second: {fileID: 2100000, guid: a91b14eee48b048fa80ee4d3db248373, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Object500Mat
+    second: {fileID: 2100000, guid: 79d78a43cbdb94f3fa43a07dc2d33a4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Object502Mat
+    second: {fileID: 2100000, guid: 9785eeb1088704aec84bc02179d75a0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Object503Mat
+    second: {fileID: 2100000, guid: f1a293af99849412baab0de0249bdb8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Object504Mat
+    second: {fileID: 2100000, guid: cf9fa872ad713411b88c1314cdbd261f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Object505Mat
+    second: {fileID: 2100000, guid: 3edd3173fc12943ca87b79c0ebd6c3f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Object506Mat
+    second: {fileID: 2100000, guid: d044ee2ac18a443449eab1198721329e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Object507Mat
+    second: {fileID: 2100000, guid: f68fcb84e71544e40a09c69d0faec02d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Object510Mat
+    second: {fileID: 2100000, guid: d864b0351c8df4544b1f7833ee6f4f7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Object511Mat
+    second: {fileID: 2100000, guid: 80649e27a2f2e4e6287760f46344ad22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Object512Mat
+    second: {fileID: 2100000, guid: 5cfb3e113820c4140a808da7be5d362b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Object513Mat
+    second: {fileID: 2100000, guid: 1b0f7c20feb54488ba02c7aaff6f51d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Object514Mat
+    second: {fileID: 2100000, guid: ca2ab438bd5454645a5a598c9901e2b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Object517Mat
+    second: {fileID: 2100000, guid: 8a6dec680d1c8431fb29fbcc60d6f2c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Object518Mat
+    second: {fileID: 2100000, guid: ad2630c6c81bb40829aad785b6000111, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Object519Mat
+    second: {fileID: 2100000, guid: af1ce016fdeb24b36848f8207cafcb2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Plane016Mat
+    second: {fileID: 2100000, guid: 0b9f33bbf67d2496eafc7acaa60f536e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Shape034Mat
+    second: {fileID: 2100000, guid: a8c0a975c4c4e4f8fb410ad0df88f401, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Sphere005Mat
+    second: {fileID: 2100000, guid: 7ba2c5e4bafae432aaa7cfeeefc644d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Sphere006Mat
+    second: {fileID: 2100000, guid: e41e5b1fd108f4426b761198edf63d7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Sphere007Mat
+    second: {fileID: 2100000, guid: a3edd21ea66a2460a87936f040fbc252, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Sphere008Mat
+    second: {fileID: 2100000, guid: 5815af90deaca40efbf9e36c2b20c789, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Sphere009Mat
+    second: {fileID: 2100000, guid: 98274f588a656410683f422e217c6a58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_Sphere010Mat
+    second: {fileID: 2100000, guid: acd130e791f20424ab0f18df9461a123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_display001Mat
+    second: {fileID: 2100000, guid: 762626568bc5b426b8ee9da824be7beb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_displayMat
+    second: {fileID: 2100000, guid: 4ca16a81068614353bc97b4b218d5a41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_door_hinge001Mat
+    second: {fileID: 2100000, guid: cca247222df0f4ca7ba60b9c2c954dc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_door_hingeMat
+    second: {fileID: 2100000, guid: 755c8298e7e914a2d9a4acf1ab5c1390, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_indicator003Mat
+    second: {fileID: 2100000, guid: 1f896815a50b242a79e5a68de8d69286, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_door_interiorMat
+    second: {fileID: 2100000, guid: 63d7e87327841444ca35388afefabca3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_spot_interior001Mat
+    second: {fileID: 2100000, guid: f8a7851bf549a4de98ded84276e33bb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bosch_BO420112_ncl1_1_spot_interiorMat
+    second: {fileID: 2100000, guid: 03a0a600f75dc4f99b9be9c2e9be4ba6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box001_Bosch_BO420112_ncl1_1Mat
+    second: {fileID: 2100000, guid: 6b9f6aa3ba01f42c7b4e16a15400d97d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

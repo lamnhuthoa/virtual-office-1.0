@@ -1,0 +1,16 @@
+Importing a Unity Package
+
+[Step 1]
+Importing packages base on its folder name
+Open Unity Editor and go to /Assets/[MY APP]/[folder_name]/
+
+[Step 2]
+Right-click in that folder -> Import Package 
+-> Custom Package... 
+-> Select your unity package in the exact folder 
+-> Packages/[folder_name]
+
+[Example]
+You want to import a unity package model to your project
+Open Unity Editor -> /Assets/[MY APP]/Models/ -> Import Custom Package... 
+-> Select a unitypackage model from /Packages/Models

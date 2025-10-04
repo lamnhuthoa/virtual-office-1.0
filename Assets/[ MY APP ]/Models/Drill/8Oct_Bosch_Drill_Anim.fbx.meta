@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 1b4e74da71a3a49468dc88c0d99da706
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron_Black
+    second: {fileID: 2100000, guid: bfbb311c8540cac42b0d04684a177d48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron_DarkBlue
+    second: {fileID: 2100000, guid: 01847ae9b9195204a9ee76e7c691d2b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron_Mesh
+    second: {fileID: 2100000, guid: 694f5532b67b08c45bbb036952ef892f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Glossy
+    second: {fileID: 2100000, guid: 3a5446a40e83c6648b5e6f42c16a39a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel_Black
+    second: {fileID: 2100000, guid: cb4ec3b867d22dd44bc98cab72e863ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel_Grey
+    second: {fileID: 2100000, guid: a1a29e27ed694594da14d8e86c1eaffe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Iron_Black
+    second: {fileID: 2100000, guid: b844137778bd5f645b30e0cbf6def2c4, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Iron_Black_BaseColor
+    second: {fileID: 2800000, guid: 19677f59aaa6e8740a80256237e0a276, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Iron_Black_Metallic
+    second: {fileID: 2800000, guid: 516bc330c954d064d86189cee10d4696, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Iron_Black_Normal
+    second: {fileID: 2800000, guid: 2c20bc3716da88441a4b81af1f634be5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Iron_Black_Roughness
+    second: {fileID: 2800000, guid: 85f4f271fbb9b6744869dc7327c6a2b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Iron_DarkBlue_BaseColor
+    second: {fileID: 2800000, guid: 6f9ee82bd67b85749a9d618898c36281, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Iron_DarkBlue_Metallic
+    second: {fileID: 2800000, guid: 26344739fed7e4f488d7800bea2651e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Iron_DarkBlue_Normal
+    second: {fileID: 2800000, guid: f083a4e2786813d439fbcd806e5927ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Iron_DarkBlue_Roughness
+    second: {fileID: 2800000, guid: 51ec8c023104fa4448afb5f68c55b6de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Iron_Mesh_BaseColor
+    second: {fileID: 2800000, guid: 0bfef9dbe27c74249aebd70a5b6f0f42, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Iron_Mesh_Metallic
+    second: {fileID: 2800000, guid: b13e13536b6ce7340a042d684da59767, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Iron_Mesh_Normal
+    second: {fileID: 2800000, guid: 9b37b7f0fe8299b4eb67230d2100f9e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Iron_Mesh_Roughness
+    second: {fileID: 2800000, guid: 230e239c8a36c0d43aae9db78359bffb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Metal_Glossy_BaseColor
+    second: {fileID: 2800000, guid: bcca16fee8c5b36449055fb1a150e213, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Metal_Glossy_Metallic
+    second: {fileID: 2800000, guid: 8c8222d984dac8341a65baeb347959cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Metal_Glossy_Normal
+    second: {fileID: 2800000, guid: 9b9e008a8b94c9b4099050704e59b80e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Metal_Glossy_Roughness
+    second: {fileID: 2800000, guid: 7c248193fc16c474d90aab15a02f52e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Steel_Black_BaseColor
+    second: {fileID: 2800000, guid: 06b0d7b6d81df8f4bbde53aa97e840f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Steel_Black_Metallic
+    second: {fileID: 2800000, guid: 8c973a9a97c600448bb71fd7cbef7edb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Steel_Black_Normal
+    second: {fileID: 2800000, guid: 7fcebd53ca2da434b8e3c0897b41699f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Steel_Black_Roughness
+    second: {fileID: 2800000, guid: db96809e7d00f1047b2f52d831bce34c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Steel_Grey_BaseColor
+    second: {fileID: 2800000, guid: 6253e8a2660e2bd4baf1f2ca548dddc5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Steel_Grey_Metallic
+    second: {fileID: 2800000, guid: bd2c0113a1cf0fa4c98fc433a9dadc26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Steel_Grey_Normal
+    second: {fileID: 2800000, guid: 6615ce0609b8b594a82fe3feccb18bdd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bosch-impact-drill_Steel_Grey_Roughness
+    second: {fileID: 2800000, guid: 6fa4d48c87ea837479f7947017a2f771, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

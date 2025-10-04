@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: ffdf7c4ef840d4f20aa23527a7bc04d7
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hob1_Glass_Bottom
+    second: {fileID: 2100000, guid: 3ca9f59efa12a408880247b0c66fdebc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 84cb498106bd14edc994faccc1893305, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Dark
+    second: {fileID: 2100000, guid: 2ae001fa7d102476b8cf0c65158824a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: e444cf0e02e5b45ed945fd17fff45e56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red
+    second: {fileID: 2100000, guid: 75a50f277e7c941f281c2a70f33d759d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: d002363709a5c46ac8c68eba339c1734, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bosch_Induction_Hub_Hob1SG1_BaseColor.1001
+    second: {fileID: 2800000, guid: 636630dcb90214c5e9d3aed80994c0e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bosch_Induction_Hub_Hob1SG1_Metallic.1001
+    second: {fileID: 2800000, guid: 8d12e8d187c454c1ea5528a8c78f75dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bosch_Induction_Hub_Hob1SG1_Roughness.1001
+    second: {fileID: 2800000, guid: dfca61d70c6604d699b3c4e176bfff27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bosch_Induction_Hub_Hob2SG1_BaseColor.1001
+    second: {fileID: 2800000, guid: 37eb67ab04d7346c7835f16a9077037a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bosch_Induction_Hub_Hob2SG1_Metallic.1001
+    second: {fileID: 2800000, guid: 0e2491704bd744762905f11a21afbfaa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bosch_Induction_Hub_Hob2SG1_Normal.1001
+    second: {fileID: 2800000, guid: b79b650816ac74e0cb94330e11f6174d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bosch_Induction_Hub_Hob2SG1_Roughness.1001
+    second: {fileID: 2800000, guid: 608afeb4ecd734cab97860e9246ae2b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bosch_Induction_Hub_Hob2SG2_BaseColor.1001
+    second: {fileID: 2800000, guid: 6a10cab3f1c7d401ba8789b598b670b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bosch_Induction_Hub_Hob2SG2_Metallic.1001
+    second: {fileID: 2800000, guid: 4abf262b8e58a48aba219ed8f042878f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bosch_Induction_Hub_Hob2SG2_Normal.1001
+    second: {fileID: 2800000, guid: 48b4e4570a4304373a615687741b89ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bosch_Induction_Hub_Hob2SG2_Roughness.1001
+    second: {fileID: 2800000, guid: a0c2144cf75ad40339488c6b0ef0a8a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bosch_Induction_Hub_aiStandardSurface3SG_BaseColor.1001
+    second: {fileID: 2800000, guid: 10fcb026cc73b4d449347925a9084e1a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bosch_Induction_Hub_aiStandardSurface3SG_Metallic.1001
+    second: {fileID: 2800000, guid: ba48b4dd771f04c22bb232a784d5514a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bosch_Induction_Hub_aiStandardSurface3SG_Roughness.1001
+    second: {fileID: 2800000, guid: 86e7af88243cb42aba102fb18ce0a027, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bosch_Induction_Hub_aiStandardSurface4SG_BaseColor.1001
+    second: {fileID: 2800000, guid: c973b5997fa5d404288e3466875eebff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bosch_Induction_Hub_aiStandardSurface4SG_Metallic.1001
+    second: {fileID: 2800000, guid: a82a5daa493494c018b3de4d3b0acab6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bosch_Induction_Hub_aiStandardSurface4SG_Roughness.1001
+    second: {fileID: 2800000, guid: 570557555297941a9a6185dc9b6d033a, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
