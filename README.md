@@ -1,7 +1,6 @@
 # 🏢 Virtual Office
 
-**Virtual Office** is a **VR application** designed as a collection of modular **virtual environments**.  
-It enables users to create and join shared sessions within the **Metaverse**, serving as a platform for **collaboration, exhibition, and interactive engagement** across various corporate scenarios.
+**Virtual Office 1.0** is a **VR application** designed as a collection of modular virtual environments, sparked in **January 2024** from the vision of advancing virtual collaboration and communication. It enables users to create and join shared sessions within the Metaverse, serving as a platform for **collaboration, exhibition, and interactive engagement** across various corporate scenarios.
 
 ---
 
